@@ -16,6 +16,10 @@ Marque esse projeto com uma estrela 🌟
 - Execute `npm ci` para restaurar os pacotes
 - Execute `npm start` e em seguida vá para o seu navegador em [http://localhost:3000](http://localhost:3000) para visualizar a página acima
 
+## Live demo
+
+- Para testar o projeto final [clique aqui] (https://sofineo.github.io/SemanaJSExpert/classes/class01/)
+
 ## Checklist Features
 - Titles List
   - [x] - Campo para pesquisa não deve travar ao digitar termo de pesquisa
@@ -23,7 +27,7 @@ Marque esse projeto com uma estrela 🌟
   - [x] - Deve disparar scroll up quando usar a palma das mãos abertas 🖐
   - [x] - Deve disparar scroll down quando usar a palma das mãos fechadas ✊
   - [x] - Deve disparar click no elemento mais próximo quando usar  gesto de pinça 🤏🏻
-  - [] - Ao mover elementos na tela, deve disparar evento **:hover** em elementos em contexto
+  - [x] - Ao mover elementos na tela, deve disparar evento **:hover** em elementos em contexto
 
 - Video Player
   - [x] - Deve ser possivel de reproduzir ou pausar videos com o piscar de olhos 😁
